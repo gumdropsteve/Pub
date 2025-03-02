@@ -1,5 +1,5 @@
 {
-    "name": "Stable Token",
+    "name": "Stable USD",
     "symbol": "USDX",
-    "image": "https://github.com/colehlava/Pub/blob/main/StablecoinLogo.png"
+    "image": "https://raw.githubusercontent.com/Stable-Finance/branding/main/current_defaults/usdx_default_icon.png"
 }
